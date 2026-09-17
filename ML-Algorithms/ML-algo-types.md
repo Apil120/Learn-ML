@@ -10,3 +10,7 @@
 3) Polynomial Regression
 4) Ridge Regression
 5) Lasso Regression
+
+These algorithms are explained below:
+
+1) Linear Regression:
