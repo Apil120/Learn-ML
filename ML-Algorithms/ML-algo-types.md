@@ -14,3 +14,13 @@
 These algorithms are explained below:
 
 1) Linear Regression:
+    Linear regression is a machine learning algorithm that is used to find the relationship between any dependednt and independent variable. It's standard formulae is :
+    $$
+    y = wx+b
+    $$
+where;
+- `y` is predicted value
+- `w` is weights
+- `x` is input value
+- `b` is biases
+Linear regression is useful in predicting continuous numerical values such as salaries and house prices. For the techincal implementation and more information, please refer to  the [Linear Regression Notebook](../LinearRegression/LinearRegression.ipynb)
